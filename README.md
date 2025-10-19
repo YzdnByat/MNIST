@@ -9,14 +9,14 @@ The project compares a **fully connected baseline (MLP)** with a **convolutional
 
 ---
 
-## 📊 Results
+## Results
 - **MLP (Multi-Layer Perceptron)**: ~97% test accuracy.  
 - **CNN (Convolutional Neural Network)**: ~99% test accuracy.  
 - Training and validation curves show significant generalization improvement with CNNs.  
 
 ---
 
-## 🚀 Features
+## Features
 - Data preprocessing and normalization using `torchvision`.  
 - Two separate implementations: **MLP** (dense layers) and **CNN** (convolutions + pooling).  
 - Training pipeline with **Adam optimizer** and **cross-entropy loss**.  
@@ -25,4 +25,4 @@ The project compares a **fully connected baseline (MLP)** with a **convolutional
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
